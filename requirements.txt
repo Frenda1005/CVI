@@ -1,0 +1,4 @@
+chromedriver-autoinstaller
+beautifulsoup4
+pandas
+selenium
