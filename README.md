@@ -18,7 +18,8 @@ This project provides a graphical user interface (GUI) for analyzing vaccine pro
 
     ```bash
     git clone <(https://github.com/Frenda1005/CVI.git)>  // or directly download from github
-    cd CVI_UI
+    cd CVI
+
     ```
 
 2. **Create and activate a virtual environment (optional but recommended):**
