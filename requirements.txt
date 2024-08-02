@@ -2,3 +2,6 @@ chromedriver-autoinstaller
 beautifulsoup4
 pandas
 selenium
+scikit-learn
+matplotlib
+seaborn
